@@ -22,7 +22,7 @@ The script requires **Python 3.9** or higher.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/FodiYes/Cloner-Userbot.git
+    git clone https://github.com/FodiYes/TelegramCloner.git
     cd Cloner-Userbot
     ```
 
@@ -60,5 +60,6 @@ All commands are entered in any Telegram chat (e.g., in "Saved Messages").
 This tool is intended for educational and demonstration purposes only. The author is not responsible for any misuse of this software. By using this script, you assume full responsibility for your actions.
 
 ---
+
 
 Coded by **FodiYes**.
