@@ -23,7 +23,7 @@ The script requires **Python 3.9** or higher.
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/FodiYes/TelegramCloner.git
-    cd Cloner-Userbot
+    cd TelegramCloner
     ```
 
 2.  **Install dependencies:**
@@ -63,3 +63,4 @@ This tool is intended for educational and demonstration purposes only. The autho
 
 
 Coded by **FodiYes**.
+
